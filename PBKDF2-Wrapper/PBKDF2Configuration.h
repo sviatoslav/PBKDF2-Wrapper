@@ -7,7 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import <CommonCrypto/CommonKeyDerivation.h>
+#import <CommonCrypto/CommonCrypto.h>
 
 /**
  Represents the possible pseudo random functions to be used when computing PBKDF2.
